@@ -1,4 +1,4 @@
-[Live Link](https://65e1a7a5dd7015aaac9cf09c--meek-cupcake-90174e.netlify.app/)
+[Live Link](https://65e1ac35232d679986d2ca2e--sunny-semolina-1e379a.netlify.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
