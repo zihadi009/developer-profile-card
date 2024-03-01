@@ -46,7 +46,7 @@ function App() {
 }
 
 function Avatar() {
-  return <img className='avatar' src="IMG_1939.JPG" alt="Musfiqur Rahman Zihad" />
+  return <img className='avatar' src="IMG_1107.JPG" alt="Musfiqur Rahman Zihad" />
 }
 function Intro() {
   return (
