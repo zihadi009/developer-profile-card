@@ -1,4 +1,3 @@
-// Live Link
 [Live Link](https://65e19f1c02b76baa612d0e03--clever-cascaron-c3c648.netlify.app/)
 # Getting Started with Create React App
 
